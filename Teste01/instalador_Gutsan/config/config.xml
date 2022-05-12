@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Instalador de teste</Name>
+    <Version>1.0.0</Version>
+    <Title>Start Menu Teste</Title>
+    <Publisher>Qt-Project</Publisher>
+    <!-- Directory name is used in component.xml -->
+    <StartMenuDir>Qt Installer Framework Examples</StartMenuDir>
+    <TargetDir>E:\Projetos C++\Teste01\Teste01</TargetDir>
+</Installer>
